@@ -8,7 +8,7 @@ This app subtract two number entered by user
 """)
 #Get Input
 
-st.header('Enter Number to be Subtracted")
+st.header("Enter Number to be Subtracted")
 
 first_number = st.number_input("First_Number")
 second_number = st.number_input("Second_Number")
