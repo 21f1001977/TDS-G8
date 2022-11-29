@@ -18,6 +18,8 @@ data = {'First_Number': first_number,
         'Second_Numbe': second_number,
         'Result': result
        }
+          
+st.write(data)
 st.write("The Result of Subtraction of given number is ",result)
 st.write(" By Yogesh Kumar ")
 
